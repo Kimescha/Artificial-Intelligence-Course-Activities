@@ -1,5 +1,4 @@
 # Artificial-Intelligence-Course-Activities
-The main assignments and project for the Data Mining course offered at the University of Tehran.
 
 The first assignment: creating an optimized maze player using Q-learning. I used Python Libraries such as Keras and MatPlotLib for this task.
 
