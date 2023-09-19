@@ -6,4 +6,4 @@ The second assignment: solving an 8-Puzzle using algorithms like DFS, BFS IDS, U
 I used Libraries like Numpy for this task and collected the output examples for the given instances.
 
 The final project: creating an optimized Connect Four player using MiniMaz-Pruning and genetic algorithm. I mainly used Numpy, PyGame, and PyGad for this task and
-implemented a Java GUI for the game.
+implemented a Java GUI (with Gradle Wrapper) for the game.
